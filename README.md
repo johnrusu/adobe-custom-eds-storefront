@@ -2,10 +2,6 @@
 
 A modern headless storefront for Adobe Commerce 2.4.8 with integrated Stripe payment processing.
 
-## Demo
-
-![Demo](assets/preview.gif)
-
 ## Features
 
 - 🛍️ Product catalog from Adobe Commerce GraphQL API
